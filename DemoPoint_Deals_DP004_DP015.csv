@@ -1,0 +1,13 @@
+﻿Email,Deal name,Pipeline,Deal stage,Amount,Close date,Deal type,Priority
+peter.njoroge@example.com,DP-004 – Starter Package,Sales Pipeline,Appointment Scheduled,10000,2026-12-15,New Business,Medium
+fatima.ali@example.com,DP-005 – Professional Package,Sales Pipeline,Qualified to Buy,18000,2026-12-15,New Business,Medium
+john.ochieng@example.com,DP-006 – Premium Package,Sales Pipeline,Presentation Scheduled,22000,2026-12-15,New Business,Medium
+mercy.chebet@example.com,DP-007 – Corporate Package,Sales Pipeline,Decision Maker Bought-In,30000,2026-12-15,New Business,High
+samuel.kiptoo@example.com,DP-008 – Enterprise Package,Sales Pipeline,Contract Sent,40000,2026-12-15,New Business,High
+ruth.wairimu@example.com,DP-009 – Starter Package,Sales Pipeline,Qualified to Buy,12000,2026-12-15,New Business,Medium
+ibrahim.hassan@example.com,DP-010 – Starter Package,Sales Pipeline,Closed Won,9000,2026-11-09,New Business,Medium
+daniel.owino@example.com,DP-011 – Professional Package,Sales Pipeline,Closed Won,16000,2026-11-09,New Business,Medium
+esther.akinyi@example.com,DP-012 – Premium Package,Sales Pipeline,Closed Won,28000,2026-11-09,New Business,Medium
+leah.njeri@example.com,DP-013 – Professional Package,Sales Pipeline,Closed Lost,14000,2026-11-09,New Business,Medium
+diana.atieno@example.com,DP-014 – Premium Package,Sales Pipeline,Closed Lost,24000,2026-11-09,New Business,Medium
+james.mwangi@example.com,DP-015 – Corporate Package,Sales Pipeline,Closed Lost,33000,2026-11-09,New Business,Medium
