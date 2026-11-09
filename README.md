@@ -65,21 +65,23 @@ The dashboard screenshot shows **15 deals** and **three closed-won deals totalin
 | Follow-up tasks created | 3 |
 | Dashboard reports | 2 |
 
+
 ## Project files
 
 | File | Contents |
 |---|---|
-| [`data/DemoPoint_CRM_Data_Cleaning_Workbook.xlsx`](data/DemoPoint_CRM_Data_Cleaning_Workbook.xlsx) | Excel workbook containing Raw Contacts, Working Copy, Data Quality Log, and project instructions |
-| [`data/CRM_Clean_Contacts.csv`](data/CRM_Clean_Contacts.csv) | 45 contacts prepared for HubSpot import |
-| [`data/DemoPoint_Deals_DP004_DP015.csv`](data/DemoPoint_Deals_DP004_DP015.csv) | Twelve deals imported after the three manually created deals |
-| [`screenshots/01_Sales_Pipeline_Overview.png`](screenshots/01_Sales_Pipeline_Overview.png) | Sales pipeline with deal stages, amounts, and contacts |
-| [`screenshots/02_Deal_Activity_and_Interaction_Note.png`](screenshots/02_Deal_Activity_and_Interaction_Note.png) | Practice interaction note recorded against a deal |
-| [`screenshots/03_Customer_Follow_Up_Tasks.png`](screenshots/03_Customer_Follow_Up_Tasks.png) | Contact-linked follow-up tasks |
-| [`screenshots/04_CRM_Sales_Performance_Dashboard.png`](screenshots/04_CRM_Sales_Performance_Dashboard.png) | Deal-stage and closed-won reporting dashboard |
+| [Data Cleaning Workbook](DemoPoint_CRM_Data_Cleaning_Workbook.xlsx) | Excel data preparation and Data Quality Log |
+| [Clean Contacts CSV](CRM_Clean_Contacts.csv) | 45 prepared contacts |
+| [Deals CSV](DemoPoint_Deals_DP004_DP015.csv) | 12 imported sales deals |
+| [Sales Pipeline Overview](Sales%20Pipeline%20Overview.png) | Deal stages and sales pipeline |
+| [Deal Activity and Interaction Note](Deal%20Activity%20and%20Interaction%20Note.png) | CRM interaction documentation |
+| [Customer Follow-Up Tasks](Customer%20Follow-Up%20Tasks.png) | Contact follow-up tasks |
+| [CRM Sales Performance Dashboard](CRM%20Sales%20Performance%20Dashboard.png) | Sales performance reports |
+
 
 ## Dashboard preview
 
-![DemoPoint CRM Sales Performance Dashboard](screenshots/04_CRM_Sales_Performance_Dashboard.png)
+![DemoPoint CRM Sales Performance Dashboard](CRM%20Sales%20Performance%20Dashboard.png)
 
 ## Skills demonstrated
 
